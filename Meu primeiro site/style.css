@@ -1,0 +1,66 @@
+html, body {
+    width: 98%;
+    margin: 0;
+    line-height: 1.5;
+    font-family: sans-serif;
+    font-family: arial;
+    background-color: black;
+
+    
+}
+#img-estudo{
+    height: 45%;
+    width: 104%;
+}
+h1{
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    border: white 1px solid;
+    padding: 10px;
+    margin: 60px;
+    
+    
+    
+}
+p{
+    color: white;
+    text-align: middle;
+    height: 60px;
+    margin: 60px;
+    font-size: 20px;
+    
+
+    
+    
+    
+}
+.canto{
+    width: 30%;
+    height: 450%;
+    margin: auto;
+    right: 500%;
+    margin-top: 2%;
+    
+
+    
+
+  
+
+}
+
+    
+
+
+    
+    
+    
+    
+
+   
+
+
+    
+
+
+
