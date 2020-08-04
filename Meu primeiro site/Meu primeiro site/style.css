@@ -1,0 +1,72 @@
+html, body {
+    width: 98%;
+    margin: 0;
+    line-height: 1.5;
+    font-family: sans-serif;
+    font-family: arial;
+    background-color: black;
+
+    
+}
+#img-estudo{
+    height: 45%;
+    width: 104%;
+    background-size: cover;
+}
+.Titulo{
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    border: white 1px solid;
+    padding: 10px;
+    margin: 60px;
+    border-radius: 15px;
+    
+    
+    
+    
+}
+
+    
+
+    
+    
+    
+
+.canto{
+    width: 30%;
+    height: 300px;
+    margin: auto;
+    right: 500%;
+    margin-top: 2%;
+}
+.coluna{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+    color: white;
+}
+    
+
+    
+
+  
+
+
+
+    
+
+
+    
+    
+    
+    
+
+   
+
+
+    
+
+
+
